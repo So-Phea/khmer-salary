@@ -1,4 +1,4 @@
-package com.tica.app.tica
+package com.khmersalary.app
 
 import io.flutter.embedding.android.FlutterActivity
 

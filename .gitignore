@@ -44,3 +44,7 @@ app.*.map.json
 /android/app/profile
 /android/app/release
 *.apk
+key.properties
+*.jks
+*.aab
+*.ipa
